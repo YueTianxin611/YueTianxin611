@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤩 I’m looking for SDE summer internship now, contact me!
-- 👩🏻‍💻 I'm studying hard on courses: Object-Oriented Design and Data Structures & Introduction to Analysis of Algorithms & Design with Embedded Operating System this semester
+- 👩🏻‍💻 I'm studying hard on those courses this semester:
+     - Object-Oriented Design and Data Structures
+     - Introduction to Analysis of Algorithms
+     - Design with Embedded Operating System
 - 🎡 Study hard! Play hard!
