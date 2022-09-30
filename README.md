@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's Me! Tianxin Yue!
 
 <!--
 **YueTianxin611/YueTianxin611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤔 I’m looking for help with ...
+- 🤩 I’m looking for SDE summer internship now, contact me!
+- 👩🏻‍💻 I'm studying hard on courses: Object-Oriented Design and Data Structures & Introduction to Analysis of Algorithms & Design with Embedded Operating System this semester
+- 🎡 Study hard! Play hard!
