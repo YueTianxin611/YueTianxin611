@@ -1,5 +1,4 @@
-### Hi there 👋 It's Me! Tianxin Yue!
-
+### Hi there 👋 It's Me!
 <!--
 **YueTianxin611/YueTianxin611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
